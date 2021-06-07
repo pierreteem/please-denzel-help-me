@@ -132,3 +132,6 @@ const proudNot = 'A project where we had to build some small robot. We tried a w
 const tools = 'The rapid feedback they provide and the simple interface. Not much GUI but efficient and effective results.';
 // Q20. Last question: could you explain me - in your terms - why the title of the course is "Web Application Architecture(s)" and not "Web Application Architecture"?
 const last = 'There are more than one architecture, more than one way web app components can interact. Hence the plural.';
+
+
+// Please accept my apologies for the slight delay. My disability makes me much slower than most (and is fully recognized). And I had some trouble with git at the start and had to find a workaround. I started very late because of this. 
